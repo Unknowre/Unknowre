@@ -7,8 +7,8 @@
 ![Lua](https://img.shields.io/badge/Lua-blue?style=for-the-badge&logo=lua&logoColor=white)  
 
 ## 📊 GitHub Stats:  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Unknowre&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devse123&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Unknowre&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unknowre&layout=compact&theme=radical)  
 
 ## 📫 Contact Me:  
 [![Discord](https://img.shields.io/badge/Discord-.editer-blue?style=for-the-badge&logo=discord)](https://discord.com/)  
