@@ -1,5 +1,5 @@
 # Hi 👋, I'm Devse  
-🚀 Passionate game developer & security researcher  
+🚀 Cybersecurity & reverse engineering specialist—whether breaking or securing, I do it all. 
 
 ## 🛠 Skills and Expertise:
 ### 💻 Programming Languages (Most Proficient to Least)
