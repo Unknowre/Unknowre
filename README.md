@@ -11,4 +11,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devse123&layout=compact&theme=radical)  
 
 ## 📫 Contact Me:  
-[![Discord](https://img.shields.io/badge/Discord-Unknowre-blue?style=for-the-badge&logo=discord)](https://discord.com/)  
+[![Discord](https://img.shields.io/badge/Discord-.editer-blue?style=for-the-badge&logo=discord)](https://discord.com/)  
