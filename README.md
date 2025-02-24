@@ -7,7 +7,7 @@
 ![Lua](https://img.shields.io/badge/Lua-blue?style=for-the-badge&logo=lua&logoColor=white)  
 
 ## 📊 GitHub Stats:  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devse123&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Unknowre&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devse123&layout=compact&theme=radical)  
 
 ## 📫 Contact Me:  
