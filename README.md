@@ -2,7 +2,7 @@
 🚀 Cybersecurity & reverse engineering specialist—whether breaking or securing, I do it all. 
 
 ## 🛠 Skills and Expertise:
-### 💻 Programming Languages (Most Proficient to Least)
+### 💻 Programming Languages (Most Proficient to Least) (Lua is not accepted)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
