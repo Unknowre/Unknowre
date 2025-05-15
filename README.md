@@ -9,7 +9,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-### 🔍 Reverse Engineering & Hacking Skills
+### 🔍 Reverse Engineering
 ![Memory](https://img.shields.io/badge/Memory-ff0000?style=for-the-badge)
 ![Pointer](https://img.shields.io/badge/Pointer-ff6600?style=for-the-badge)
 ![Hex](https://img.shields.io/badge/Hex-ffcc00?style=for-the-badge)
